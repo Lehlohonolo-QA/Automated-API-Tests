@@ -1,0 +1,29 @@
+01:50:22.641 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+01:50:22.646 request:
+1 > GET https://dog.ceo/api/breed/retriever/golden/images/random
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: dog.ceo
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_171)
+
+01:50:23.301 response time in milliseconds: 653.65
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 52a79d095a20d11d-TXL
+1 < Cache-Control: no-cache, private
+1 < Connection: keep-alive
+1 < Content-Type: application/json
+1 < Date: Wed, 23 Oct 2019 23:50:28 GMT
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=d05686d3c8fd17cad4095fb5f21eff0e41571874628; expires=Thu, 22-Oct-20 23:50:28 GMT; path=/; domain=.dog.ceo; HttpOnly; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: 
+1 < Via: 1.1 varnish (Varnish/6.2), 1.1 varnish (Varnish/6.3)
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Powered-By: PHP/7.3.0
+{"message":"https:\/\/images.dog.ceo\/breeds\/retriever-golden\/n02099601_3853.jpg","status":"success"}
+
