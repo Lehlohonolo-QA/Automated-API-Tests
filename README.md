@@ -21,7 +21,7 @@ Open the feature file and select any test scenario you would like to execute. Ri
 Right click on the Runner class and select run. All the tests in the Dogs directory will be executed
 		
 **Get test the report:**
-In the console output after the test has run. Copy the generated html report and paste it in the browser of your choice
+In the console output after the test has run. Copy the generated html report and paste it in the browser of your choice. e.g
 
 `HTML report: (paste into browser to view) | Karate version: 0.9.4`
 `file:/C:/Users/lehlohonolo.mofokeng/IdeaProjects/testingApi/target/surefire-reports/src.test.java.api.dogs.RandomSubBreedImage.html`
