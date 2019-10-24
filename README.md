@@ -7,8 +7,8 @@ The tests are written in a feature file and can be found under the following loc
 *Test Location:*
  `<p>src/test/java/api/dogs<p>  
 <p> |</p> 
-<p> \+-- AllDogs.feature </p>
-<p>  +-- RandomSubBreedImage.feature</p>
+<p>  \+-- AllDogs.feature </p>
+<p>  \+-- RandomSubBreedImage.feature</p>
 <p>|RunnerClass</p>`
     
 **How to run the tests:**
