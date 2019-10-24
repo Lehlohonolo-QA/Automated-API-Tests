@@ -20,7 +20,7 @@ Open the feature file and select any test scenario you would like to execute. Ri
 *2)Run tests from the Runner class:*
 Right click on the Runner class and select run. All the tests in the Dogs directory will be executed
 		
-**Get test the report:**
+**How to get the test report:**
 In the console output after the test has run. Copy the generated html report and paste it in the browser of your choice. e.g
 
 `HTML report: (paste into browser to view) | Karate version: 0.9.4`
