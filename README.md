@@ -6,10 +6,10 @@ The tests are written in a feature file and can be found under the following loc
  
 *Test Location:*
  
- `src/test/java/api/dogs
-    |
-     \+-- AllDogs.feature
-      +-- RandomSubBreedImage.feature
+ `src/test/java/api/dogs  
+    |  
+     \+-- AllDogs.feature  
+      +-- RandomSubBreedImage.feature  
     |RunnerClass`     
     
 **How to run the tests:**
