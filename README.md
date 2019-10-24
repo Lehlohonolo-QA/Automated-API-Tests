@@ -12,8 +12,8 @@ The tests are written in a feature file and can be found under the following loc
 <p>|RunnerClass</p>`
     
 **How to run the tests:**
-One can execute the tests individually or all at once
-*1) run test individually:  
+One can execute the tests individually or all at once  
+*1) run test individually:*  
 Open the feature file and select any test scenario you would like to execute. Right click on the the scenario and select run from the options presented. Or click on Feature at the top of the file and right click and select run to run all test scenarios.
 
 *2)Run tests from the Runner class:*
